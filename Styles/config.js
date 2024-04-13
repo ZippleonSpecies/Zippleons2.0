@@ -12,8 +12,6 @@ let sheetPages = {
 
     masterlist: "masterlist",
     masterlistLog: "masterlist log",
-    inventory: "inventory",
-    inventoryLog: "inventory log",
     items: "items",
     traits: "traits",
     prompts: "prompts",
